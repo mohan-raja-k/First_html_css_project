@@ -23,3 +23,7 @@ https://mohan-raja-k.github.io/First_html_css_project/index.html
 - Make it responsive
 - Improve UI design
 - Add JavaScript
+## 📸 Screenshots
+
+![Screenshot 1](ss1.png)
+![Screenshot 2](ss2.png)
